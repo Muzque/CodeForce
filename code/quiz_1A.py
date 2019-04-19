@@ -1,8 +1,4 @@
 n, m, a = map(int, input().split())
-L = n//a
-if n % a > 0:
-    L += 1
-W = m//a
-if m % a > 0:
-    W += 1
+L = n // a + 1 if n % a else n // a
+W = m // a + 1 if m % a else m // a
 print(L*W)

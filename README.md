@@ -11,3 +11,4 @@ Solved
 |118A|String Task|1100|248|12|
 |231A|Team|800|218|36|
 |50A|Domino Piling|800|248|16|
+|282A|Bit++|900|124|8|

@@ -12,3 +12,5 @@ Solved
 |231A|Team|800|218|36|
 |50A|Domino Piling|800|248|16|
 |282A|Bit++|900|124|8|
+|1154G|Minimum Possible LCM|2400|||
+|112A|Petya and Strings|900|218|0|

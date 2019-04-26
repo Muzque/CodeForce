@@ -14,3 +14,4 @@ Solved
 |282A|Bit++|900|124|8|
 |1154G|Minimum Possible LCM|2400|||
 |112A|Petya and Strings|900|218|0|
+|96A|Football|1100|218|0|

@@ -16,3 +16,4 @@ Solved
 |112A|Petya and Strings|900|218|0|
 |96A|Football|1100|218|0|
 |339A|Helpful Maths|900|218|0|
+|281A|Word Capitalization|800|218|0|
